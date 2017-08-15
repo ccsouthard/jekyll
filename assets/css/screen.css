@@ -1612,9 +1612,9 @@ body:not(.post-template) .post-title {
         -webkit-box-sizing: border-box;
         -moz-box-sizing: border-box;
         box-sizing: border-box;
-        height: auto;
+        //height: auto;
         min-height: 240px;
-        height: 60vh;
+        //height: 60vh;
         padding: 15% 0;
     }
 
@@ -1744,7 +1744,7 @@ body:not(.post-template) .post-title {
 
     .main-header {
         margin-bottom: 15px;
-        height: 40vh;
+        //height: 40vh;
     }
 
     .no-cover.main-header {
